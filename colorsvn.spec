@@ -10,7 +10,6 @@ Source0:        http://www.console-colors.de/downloads/colorsvn/colorsvn-%{versi
 Requires:       subversion 
 BuildRequires:  subversion
 BuildArch:      noarch
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 Subversion output colorizer.
