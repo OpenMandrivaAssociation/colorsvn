@@ -1,6 +1,6 @@
 Name:           colorsvn
 Version:        0.3.2
-Release:        %mkrel 5
+Release:        %mkrel 6
 Epoch:          0
 Summary:        Colorizer for subversion, based on colorgcc and colorcvs
 Group:          Development/Other
