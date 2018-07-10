@@ -1,7 +1,7 @@
 Summary:	Colorizer for subversion, based on colorgcc and colorcvs
 Name:		colorsvn
 Version:	0.3.2
-Release:	18
+Release:	19
 Group:		Development/Other
 License:	GPLv2
 Url:		http://www.console-colors.de/
