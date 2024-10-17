@@ -4,7 +4,7 @@ Version:	0.3.3
 Release:	2
 Group:		Development/Other
 License:	GPLv2
-Url:		http://colorsvn.tigris.org/
+Url:		https://colorsvn.tigris.org/
 Source0:	http://colorsvn.tigris.org/files/documents/4414/49311/colorsvn-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:	subversion
