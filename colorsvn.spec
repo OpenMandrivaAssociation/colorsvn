@@ -7,6 +7,11 @@ License:	GPLv2
 Url:		https://colorsvn.tigris.org/
 Source0:	http://colorsvn.tigris.org/files/documents/4414/49311/colorsvn-%{version}.tar.gz
 BuildArch:      noarch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	subversion
 Requires:	subversion 
 
